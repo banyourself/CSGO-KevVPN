@@ -1,0 +1,7 @@
+# Editor and OS junk. Compiled .smx files are committed on purpose so people
+# can install without a compiler.
+*.swp
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
